@@ -8,7 +8,7 @@ Fix target ELF File via Zygisk. Only supports arm64
 ### 🍽️ 安装与使用步骤
 
 ```bash
-1. 前往项目仓库：https://github.com/sucsand/ZygiskSoFix，进入 Release 页面下载最新的 ZIP 安装包。
+1. 前往项目仓库：https://github.com/sucsand/zygiskSoFix，进入 Release 页面下载最新的 ZIP 安装包。
 
 2. 将 ZIP 文件推送到手机，在 Magisk 、KernelSU、Apatch 中刷入该模块。
 

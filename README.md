@@ -4,6 +4,7 @@ Fix target ELF File via Zygisk. Only supports arm64
 ### ⚙️ 功能简介
 - ⚡ 从内存中修复指定so文件
 - 📱 适用于已 **Root** 的 Android 设备，要求 **Magisk** 、**KernelSU**、**Apatch** 已启用**Zygisk 环境**。
+- 🎬 微信公众号：https://mp.weixin.qq.com/s/GMfiT2SkX9kyeEPouDrFKg
 
 ### 🍽️ 安装与使用步骤
 
